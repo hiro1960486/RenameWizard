@@ -1,5 +1,18 @@
 # RenameWizard v0.5.0
 
+## 統合APP「FileWorkbench」への移行予告（2026-10-03）
+
+現在、次の3つのAPPの機能を統合する「FileWorkbench」を開発中です。
+
+- DirectoryStructureGenerator：フォルダー構成の出力、ファイル情報の確認・整理
+- DirectoryStructureGenerator.PresetManager：プリセット設定の管理
+- RenameWizard：ファイル名の変更、コピー・移動
+
+今後は統合APP「FileWorkbench」へ移行する予定です。正式公開・移行開始の案内は、準備が整い次第お知らせします。
+
+初心者向けの入手・ビルドガイドと、開発中の画面資料も整備しています。現在は開発段階の予告であり、既存設定・データの移行方法や互換性は、今後の案内でお知らせします。
+
+
 ![RenameWizard application icon](assets/renamewizard_icon.png)
 
 初心者でも画面で確認しながら、複数ファイルの名前を安全に整えられるWindows向けアプリです。初期動作は「コピー」です。元ファイルを残したまま別の出力先へ保存できます。
