@@ -22,3 +22,26 @@ release/*.zip
 .vscode/
 Thumbs.db
 Desktop.ini
+
+# Source-only local workspace policy (2026-10-05)
+.venv*/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+/build/
+/dist/
+/release/
+/publish/
+**/bin/
+**/obj/
+*.zip
+*.7z
+*.log
+*.tmp
+*.bak
+配布/
+保管/
+記録/
+Thumbs.db
+Desktop.ini
